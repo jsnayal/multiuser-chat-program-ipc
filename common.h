@@ -1,0 +1,9 @@
+struct com{
+	int add[40][40];
+	int multi[40][40];
+	int array1[40][40];
+	int array2[40][40];
+        int row;
+	int col;
+	int flag;
+	} ;
